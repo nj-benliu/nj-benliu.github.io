@@ -4,3 +4,8 @@ body{
 a:link, a:visited{
    color: blue;
 }
+a#homepage{
+   background-color: red;
+   color: green;
+   font-family: "courier new";
+}
