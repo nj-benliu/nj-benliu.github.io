@@ -4,7 +4,7 @@ body{
 a:link, a:visited{
    color: blue;
 }
-a#homepage{
+a#homelink{
    background-color: red;
    color: green;
    font-family: "courier new";
