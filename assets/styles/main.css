@@ -6,8 +6,6 @@ a:link, a:visited{
 }
 div#header{
    background-color:red;
-}
-a#homelink{
    color: green;
    font-family: "courier new";
    font-size: 15em;
