@@ -12,3 +12,6 @@ a#home{
    font-family: "courier new";
    font-size: 15em;
 }
+div#footer{
+   font-size: 0.5em;
+}
