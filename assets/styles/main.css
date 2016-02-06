@@ -2,7 +2,7 @@ body{
    font-family: arial
 }
 a:link, a:visited{
-   color: blue;
+   color: green;
 }
 div#header{
    background-color:red;
