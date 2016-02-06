@@ -2,9 +2,9 @@ body{
    font-family: arial
 }
 a:link, a:visited{
-   color: blue;
+   color: purple;
 }
-#header{
+div#header{
    background-color: red;
    color: green;
    font-family: "courier new";
