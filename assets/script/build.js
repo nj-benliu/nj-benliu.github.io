@@ -1,2 +1,2 @@
-document.getElementById("header").innerHTML = "<a href="http://nj-benliu.github.io" >Benjamin</a>";
+document.getElementById("home").innerHTML = "Benjamin";
 
