@@ -13,7 +13,8 @@ a#home{
    font-size: 15em;
 }
 div#randomfact{
-   float:right;
+   float: right;
+   border: 1px solid black;
 }
 div#footer{
    font-size: 0.5em;
