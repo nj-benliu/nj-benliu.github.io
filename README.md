@@ -1,3 +1,1 @@
-#Rules
-
-DO NOT EDIT UNLESS I GIVE YOU PERMISSION!!!!!
+Hello welcome to my website XDDDDD
