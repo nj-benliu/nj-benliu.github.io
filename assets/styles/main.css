@@ -3,6 +3,15 @@ body{
 }
 a:link, a:visited{
    color: blue;
+   text-decoration: none;
+}
+a: hover{
+   color: green;
+   text-decoration: underline;
+}
+a: active{
+   color: red;
+   text-decoration: underline;
 }
 div#header{
    background-color: red;
